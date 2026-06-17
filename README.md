@@ -11,7 +11,7 @@
 - 官方 TA-Lib: https://ta-lib.org/
 - TA-Lib C 源码: https://github.com/ta-lib/ta-lib
 - TA-Lib Python 封装: https://github.com/ta-lib/ta-lib-python
-- TA-Lib Wiki (指标公式): https://ta-lib.org/function/
+- TA-Lib 函数列表: https://ta-lib.org/functions/
 
 ## 安装
 
